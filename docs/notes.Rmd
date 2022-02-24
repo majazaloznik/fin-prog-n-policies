@@ -1,0 +1,113 @@
+## Intro 
+
+State of the economy:
+
++ exogenous factors
++ intrinsic factors - structural
++ economic policies  - fiscal, monetary, structural
+
+*Macroeconomic stability* = healthy economy. 
+
++ internal balance: how much the economy produces. Output is at full employment and inflation is low and stable. so the goods and services produced are in line with it's potential output. so all it's factors are used at the normal level of intensity, so no slack. Overutilization risks overheating the economy, so also not good
+* external balance: how the economy transacts with the rest of the world. Transactions with the rest of the world can be financed without resorting to exchange rate changes or defaulting on payments or needing assistance. 
+
+Unbalancing of the economy:
+
++ factors too much or too little demand. maybe the gvmnt spends too much or too little, or there is too much or too little money in the economy. this can push the production levels away from the optimum or raise prices.
++ uncertainty: the financial sector is not in good shape, the gvmnt. finances are not in good shape, or the economy doesn't have enough buffers. 
++ inflation & exchange rate combo that makes imports cheap can make exports not attractive and lead the economy away from external balance. 
++ asset price bubbles can also lead away..
+
+Severe imbalances risk accumulating tension which leads to crisis. Production falls, people cut consumption, unemployment increases, assets loose their value...
+
+Financial programming is a set of macro policies set at achieving macro objectives.
+
+Accounts for the main sectors of the economy:
++ *real sector*: producing and consuming units of the economy and investing.
++ *external sector*: imports, exports
++ *government sector*: government, local, public corporations: taxes, and spending
++ *monetary sector* (produces services, so is part of the real economy, but we isolate it). provides credit and creates money
+
+We want to track the transactions with other sectors and level and composition of assets and claims of that sector and its liabilities to other sectors. 
+
+*NAtional income and Product accounts* for the real sector: tracking the value of goods and services the economy produces and uses. so how much the economy produces, consumes, invests or provides for the rest of the world
+
+*Balance of payments and international investment position* are the External sector accounts: transactions, claims and liabilities with/to the rest of the world. 
+
+*Government accounts*: revenues, expenditures, assets and liabilities of the government. 
+
+*Monetary accounts*: assets and liabilities of deposit taking institutions.
+
+Plus selected other indicators such as inflation,interest rates or unemployment. 
+
+All the sectors (and their accounts) are interconnected. FP is this framework of accounting identities and behavioural relationships
+
+*Accounting identities:*
++ flows or positions involving agents in one sector and agents in another and agents in a sub-sector and the broader sector should be reflected equally in their respective accounts. (flow = transaction, position = claims & liabilities
++ the sum of certain aggregates should be the same as the sum of other aggregates, by construction. 
+
+*Behavioural relationships* link the variables of different account in an economically meaningful way. e.g. how increase in credit to private sector affects consumption. Or how increase in taxes affects consumption..
+
+The 4 accounts are comprehensive, periodically available, kinda timely and accurate. 
+
+
+*Residence*: attributed based on the centre of the predominant economic interest. not citizenship. Individuals: where you live for a year or longer. Enterprise where it produces the most - usually where they are located, not where they are incorporated. 
+
+*Stocks, flows, transactions*: stock: level of assets and liabilities. Assets are resources from which you can enjoy economic benefit. Financial (stocks, bonds, currency, deposits) or non-financial. Liabilities: the obligation to transfer economic benefits to other actors,  the opposite of a claim. Changes in stocks are explained as flows. They happen because of transactions or other flows. Transactions are interaction by mutual agreement between two agents* institutions. They are an exchange of assets or the occurrence of a liability in exchange for an asset. Other flows only affect the value of assets and liabilities, but don't change their quantity. E.g. change in prices, physical losses, or forgiveness of a liabilities. 
+
+*cash and accrual accounting *: which period we attribute the transaction. cash accounting: when the payment is made. accrual: when the transaction takes place, irrespective of the payment. 
+
+*Consolidation*: merging of accounts of more agents from the same sector to get the unified account. This eliminates the transactions and debtor/creditor relationships between the agents. 
+
+# The real sector
+
+main actors:
+
++ households or consumers own factors of production: land, capital and labour and supply them to producers and purchase goods. and make decisions about saving
++ non financial corporations. produce goods and services. make decisions about production and investment, usually profit maximising
++ financial corporations provide financial intermediation services for the economy. insurance, pension funding, mortgage loans etc.
++ general government collect taxes, provides public services
++ rest of the world also transacts with the economy
+
+Real sector is the starting and ending point of the FPP exercise. Consumption, investments, exports, imports and inflation are all dependent on the real sector. So developments here impact the other sectors. The external sector impacts by export, import, capital flow, exchange rate. he government sector can collect more/less tax revenue, expenditure, fiscal stimulus which means debt. The monetary sector also impacts the real sector by controlling the supply and demand of money. credit growth. 
+
+## National income and product accounts
+
+The quantification, description and presentation of these transactions. 
+
+GDP: the market value of all final goods and services produced in the economy in a given period. So prices at which they are sold. If they are not traded at a market, it won't be counted. Also only *final* goods and services, not intermediate, which are not counted. *capital* goods are is used itself an is used in the process of producing another good. Capital goods are not used up in the same period that it was produced, but intermediate goods are (either transformed or exhausted). 
+
+The value added is calculated at each stage as the difference between the value of the output and the value of the intermediary goods (so the inputs it purchases from other producers). Adding up all the values added in the production process gets you the value of the final output. So the value of the final goods and services (i.e. GDP) is the same as the sum of the values added
+
+Only newly produced goods are counted - e.g. a sale of an old house would not count. 
+
+If the process spreads over several periods, you count the value added in each period, so you have no issue with the production process spreading over two or more periods. If an intermediate product is not being used the same year (period), it counts as a final product in that period
+
+GDP is a measure of flows, not stocks. 
+
+
+Households sell capital, labour, land and buildings to firms in exchange for wages, rent and dividends on the factor market. on the goods market the firms supply goods and services to the households in exchange for revenue. 
+
+On the factor market, the sum of the wages, rents and profits, so the income received by the suppliers of production factors is a measurement of GDP / this is the *income approach*. On the goods market, the amount of total value added generated is also the GDP, so this is the *production approach*. The *expenditure approach* we can measure who is actually consuming the goods and services. SOme is used by the resident households for consumption and investment and some by non-resident, which is export minus import. So C+I+E-I.
+
+*Expenditure approach*: in the supply side we have firms producing the total output, plus we have the imports. They are used for intermediate purchases, final consumption by households and government, for investments by firms (capital goods, not used up) and some for exports (use by non residents). If we subtract the intermediate purchases from the total output we get the gross value added, which is our definition of GDP. SO we have Ex + inv + final Cons = imports + Gross value added. 
+
+So GDP = Cons + Inv + (ex-im)
+
+Investment is spending for new capital goods (or increases in inventory holding), so firms do it for future gains. 
+
+*Income approach*> add up teh value of al lincome generated by a countries residents. Worker's compensation, gross operating surplus of firms (profit, rents, interest..) and Taxes on goods and services minus subsidies (TSP).
+
+E: buyer's payments (C+I+E/I) = P seller's receipts (VA) = I: income generated (W+OS+T-S)
+
+Limitations:
++ some types of output are inaccurately measured, because they are not traded e.g. public education. Then you can estimate it's value by measuring the cost of teachers, the buildings etc.
++ black market economy , but you can estimate it by measuring changes in holdings of currencies. 
++ does not take into account externalities (e.g. pollution)
++ also doesn't take into account quality improvements, meaning it an imperfect measure the economy's wellbeing
+
+
+
+
+
+

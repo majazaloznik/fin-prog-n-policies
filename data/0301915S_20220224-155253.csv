@@ -1,0 +1,90 @@
+"Proizvodna struktura BDP (proizvodnja, vmesna potrošnja in dodana vrednost po dejavnostih, SKD 2008), Slovenija, letno"
+
+"DEJAVNOSTI/TRANSAKCIJE";"2020 Tekoèe cene (% od BDP) Dodana vrednost"
+"A Kmetijstvo in lov, gozdarstvo, ribištvo";2.1
+"..01 Kmetijska proizvodnja, lov in povezane storitve";1.4
+"..02 Gozdarstvo";0.7
+"..03 Ribištvo in gojenje vodnih organizmov";0.0
+"B Rudarstvo (05-09)";0.3
+"C Predelovalne dejavnosti";20.7
+"..10 Proizvodnja živil";1.2
+"..11 Proizvodnja pijaè";0.2
+"..12 Proizvodnja tobaènih izdelkov";0.0
+"..13 Proizvodnja tekstilij";0.3
+"..14 Proizvodnja oblaèil";0.1
+"..15 Proizvodnja usnja, usnjenih in sorodnih izdelkov";0.1
+"..16 Obdelava, predelava lesa, izdelkov iz lesa...";0.7
+"..17 Proizvodnja papirja in izdelkov iz papirja";0.5
+"..18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa";0.3
+"..19 Proizvodnja koksa in naftnih derivatov";0.0
+"..20 Proizvodnja kemikalij, kemiènih izdelkov";0.9
+"..21 Proizvodnja farmacevtskih surovin in preparatov";2.9
+"..22 Proizvodnja izdelkov iz gume in plastiènih mas";1.5
+"..23 Proizvodnja nekovinskih mineralnih izdelkov";0.7
+"..24 Proizvodnja kovin";0.9
+"..25 Proizvodnja kovinskih izdelkov, razen strojev in naprav";2.7
+"..26 Proizvodnja raèunalnikov, elektronskih, optiènih izdelkov";0.7
+"..27 Proizvodnja elektriènih naprav";2.0
+"..28 Proizvodnja drugih strojev in naprav";1.6
+"..29 Proizvodnja motornih vozil, prikolic in polprikolic";1.5
+"..30 Proizvodnja drugih vozil in plovil";0.1
+"..31 Proizvodnja pohištva";0.4
+"..32 Druge raznovrstne predelovalne dejavnosti";0.4
+"..33 Popravila in montaža strojev in naprav";0.8
+"D Oskrba z elektrièno energijo, plinom in paro (35)";2.3
+"E Oskrba z vodo, ravnanje z odplakami in skrb za okolje";0.8
+"..36 Zbiranje, preèišèevanje in distribucija vode";0.4
+"..37-39 Ravnanje z odplakami in odpadki, saniranje okolja";0.5
+"F Gradbeništvo (41-43)";5.3
+"G Trgovina, vzdrževanje in popravila vozil";10.4
+"..45 Trgovina z motornimi vozili in popravila motornih vozil";1.2
+"..46 Posredništvo in trgovina na debelo, razen z motornimi vozili";5.0
+"..47 Trgovina na drobno, razen z motornimi vozili";4.1
+"H Promet in skladišèenje";5.2
+"..49 Kopenski promet, cevovodni transport";2.8
+"..50 Vodni promet";0.0
+"..51 Zraèni promet";0.0
+"..52 Skladišèenje in spremljajoèe prometne dejavnosti";1.9
+"..53 Poštna in kurirska dejavnost";0.4
+"I Gostinstvo (55-56)";1.3
+"J Informacijske in komunikacijske dejavnosti";3.7
+"..58 Založništvo";0.2
+"..59-60 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi, RTV";0.3
+"..61 Telekomunikacijske dejavnosti";1.1
+"..62-63 Raèunalniško programiranje in druge informacijske dejavnosti";2.1
+"K Finanène in zavarovalniške dejavnosti";3.5
+"..64 Dejavnosti finanènih storitev, razen zav. in dej. pok. skladov";2.2
+"..65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih skladov";1.1
+"..66 Pomožne dejavnosti za finanène in zavarovalniške storitve";0.2
+"L Poslovanje z nepremièninami (68)";6.5
+"..od tega: pripisana stanovanjska dejavnost gospodinjstev";5.3
+"M Strokovne, znanstvene in tehniène dejavnosti";6.0
+"..69-70 Pravne in raèunovodske dej, poslovno uprav. in svetovanje";2.2
+"..71 Arhitekturno in tehnièno projekt., teh. preizk. in analiziranje";1.5
+"..72 Znanstvena raziskovalna in razvojna dejavnost";1.0
+"..73 Oglaševanje in raziskovanje trga";0.4
+"..74-75 Druge strokovne in tehniène dejavnosti, veterinarstvo";0.9
+"N Druge raznovrstne poslovne dejavnosti";2.3
+"..77 Dajanje v najem in zakup";0.1
+"..78 Zaposlovalne dejavnosti";1.2
+"..79 Dejavnost potovalnih agencij, organ. potovanj in s pot. pov. dej.";0.0
+"..80-82 Varovanje in poizvedovalne dejavnosti, druge poslovne dejavnosti";0.9
+"O Dejavnosti uprave in obrambe, obvezna socialna varnost (84)";5.5
+"P Izobraževanje (85)";5.0
+"Q Zdravstvo in socialno varstvo";5.5
+"..86 Zdravstvo";4.4
+"..87-88 Socialno varstvo";1.2
+"R Kulturne, razvedrilne in rekreacijske dejavnosti";1.0
+"..90-92 Kulturne in razvedrilne dej.: knjižnice, arhivi, muzeji, igre na sreèo";0.7
+"..93 Športne in druge dejavnosti za prosti èas";0.2
+"S Druge dejavnosti";0.9
+"..94 Dejavnost èlanskih organizacij";0.4
+"..95 Popravila raèunalnikov in izdelkov za široko rabo";0.1
+"..96 Druge storitvene dejavnosti";0.4
+"T Dejavnost gospodinjstev z zaposlenim osebjem (97-98)";0.1
+"U Dejavnost eksteritorialnih organizacij in teles (99)";-
+"Skupaj dejavnosti";88.4
+"Neto davki na proizvode";11.6
+"..Davki na proizvode";11.6
+"..Minus: subvencije po proizvodih";0.1
+"Bruto domaèi proizvod";100.0
